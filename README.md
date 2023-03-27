@@ -32,7 +32,7 @@
 
 <p align="center">
 
-<h2>🛠️ My Favorite Tools</h2>
+<h2 align="center">🛠️ My Favorite Tools</h2>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
