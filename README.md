@@ -23,6 +23,12 @@
 
  
  <h5 align="center">
+ <p align='center'>
+  <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true">
+  
+  </p>
+  
+  
 
 
 <details> 
