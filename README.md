@@ -13,7 +13,7 @@
 <!-- Social icons section -->
 
 <br/>
-
+<h5 align="center"> Please Support Me: </h5>
 <p align='center'>
    <a href="https://www.linkedin.com/in/azadeh-kooshesh-0015179b/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/azadehksh"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
