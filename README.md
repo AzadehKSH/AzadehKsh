@@ -30,7 +30,7 @@
   
   
 
-
+<p align="center">
 
 <h2>🛠️ My Favorite Tools</h2>
 
@@ -77,7 +77,7 @@
     
   </p>
 
-
+ </p>
 
 
 
