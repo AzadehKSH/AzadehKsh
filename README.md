@@ -1,45 +1,76 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F79DEC&center=true&vCenter=true&width=850&lines=AZADEH+KOOSHESH;AI+%26+Machine+Learning+Engineer;Medical+AI+%7C+Signal+Processing+%7C+Edge+Deployment;Building+efficient+AI+systems+from+model+to+hardware" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F79DEC&center=true&vCenter=true&width=900&lines=AZADEH+KOOSHESH;AI+%26+Machine+Learning+Engineer;Medical+AI+%7C+Neuromorphic+AI+%7C+Edge+Deployment;Building+AI+systems+from+models+to+hardware" 
       alt="Typing SVG" 
     />
   </a>
 </p>
 
 <h3 align="center">
-  AI / ML Engineer focused on medical signal processing, cardiovascular AI, efficient model design, and hardware-aware deployment.
+  AI / ML Engineer interested in medical AI, intelligent systems, neuromorphic computing, brain-inspired architectures, and hardware-aware deployment.
 </h3>
 
 <p align="center">
-  I work at the intersection of <b>machine learning</b>, <b>medical signal processing</b>, 
-  <b>edge AI</b>, and <b>responsible engineering</b>.  
-  My goal is not only to build models, but to understand how they work, optimize them, 
-  deploy them efficiently, and make them useful in real-world systems.
+  I am passionate about building AI systems that connect <b>data</b>, <b>models</b>, 
+  <b>medical knowledge</b>, <b>biological inspiration</b>, and <b>real-world hardware constraints</b>.
 </p>
 
 <p align="center">
-  <b>Core direction:</b> From physiological signals and intelligent models to efficient deployment on edge and embedded systems.
+  My goal is to understand AI deeply: from algorithms and architectures to optimization, deployment, ethics, and efficient execution on edge devices.
 </p>
 
 ---
 
-<h2 align="center">🔬 Engineering Focus</h2>
+<h2 align="center">🌉 My Technical Direction</h2>
+
+<p align="center">
+  <b>Medical Data</b> → <b>Signal & Image Processing</b> → <b>AI / ML Models</b> → 
+  <b>Optimization</b> → <b>Edge Hardware</b> → <b>Responsible Real-World Systems</b>
+</p>
+
+<p align="center">
+  I am building a profile that bridges software intelligence with hardware-aware engineering.
+</p>
+
+---
+
+<h2 align="center">🧠 Main Interests</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Medical%20AI-FF69B4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cardiovascular%20AI-E236F7?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Signal%20Processing-FFB703?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Brain--Inspired%20AI-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Neuromorphic%20Computing-6A5ACD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Brain%20Organoid%20AI-20B2AA?style=for-the-badge">
   <img src="https://img.shields.io/badge/Edge%20AI-00B4D8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Embedded%20ML-2EC4B6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Responsible%20AI-7A5CFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Responsible%20AI-FFB703?style=for-the-badge">
 </p>
 
 ---
 
-<h2 align="center">🧠 AI / Machine Learning Skills</h2>
+<h2 align="center">🧠 AI / Machine Learning Knowledge Map</h2>
 
-<h3>AI & ML Branches</h3>
+<h3>🏗️ Architectures & Model Families</h3>
+
+<ul>
+  <li>Artificial Neural Networks</li>
+  <li>Deep Neural Networks</li>
+  <li>1D CNNs for time-series and biomedical signals</li>
+  <li>2D CNNs for image analysis and computer vision</li>
+  <li>Convolutional Autoencoders for reconstruction and representation learning</li>
+  <li>Autoencoders for denoising, compression, and latent-space learning</li>
+  <li>RNNs and LSTMs for sequential data</li>
+  <li>Temporal Convolutional Networks for time-series modelling</li>
+  <li>Transformers for sequence, time-series, and multimodal learning</li>
+  <li>U-Net and encoder-decoder architectures for medical image segmentation</li>
+  <li>YOLO-based object detection architectures</li>
+  <li>MobileNet and EfficientNet-Lite for lightweight AI</li>
+  <li>Spiking Neural Networks for neuromorphic and event-driven AI</li>
+  <li>Hybrid AI architectures combining neural models with symbolic or rule-based reasoning</li>
+</ul>
+
+<h3>🔬 Methodologies & Learning Paradigms</h3>
 
 <ul>
   <li>Supervised learning</li>
@@ -47,87 +78,81 @@
   <li>Transfer learning</li>
   <li>Domain adaptation</li>
   <li>Representation learning</li>
-  <li>Federated learning concepts</li>
-  <li>Hybrid AI: neural models + symbolic / rule-based reasoning</li>
-  <li>Responsible AI and ethical AI for healthcare</li>
-  <li>Explainable AI for clinical decision support</li>
   <li>Time-series machine learning</li>
-  <li>Medical signal processing</li>
-  <li>Computer vision for interactive systems</li>
+  <li>Computer vision</li>
+  <li>Federated learning concepts</li>
+  <li>Explainable AI</li>
+  <li>Responsible and ethical AI</li>
+  <li>Model pruning and weight optimization</li>
+  <li>Quantization concepts for efficient inference</li>
   <li>Edge AI and TinyML concepts</li>
+  <li>Neuromorphic AI and spiking neural network concepts</li>
 </ul>
 
-<h3>ML / DL Models & Architectures</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/CNN-1D%20%26%202D-FF69B4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CNN1D-Time%20Series-E236F7?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Autoencoders-Signal%20Reconstruction-7A5CFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Convolutional%20Autoencoders-ECG%20%7C%20SCG-00B4D8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/TCN-Temporal%20Models-FFB703?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ECGNet-Cardiac%20Signals-DC143C?style=for-the-badge">
-  <img src="https://img.shields.io/badge/RNN%20%7C%20LSTM-Sequential%20Data-2EC4B6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Transformers-Time%20Series%20%26%20Multimodal-6A5ACD?style=for-the-badge">
-  <img src="https://img.shields.io/badge/U--Net-Medical%20Segmentation-20B2AA?style=for-the-badge">
-  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MobileNet-Lightweight%20AI-76B900?style=for-the-badge">
-  <img src="https://img.shields.io/badge/EfficientNet--Lite-Edge%20Models-4682B4?style=for-the-badge">
-</p>
-
-<h3>Model Optimization & Deployment-Aware ML</h3>
+<h3>📐 Mathematical, Physical & Signal Foundations</h3>
 
 <ul>
-  <li>Model pruning</li>
-  <li>Weight optimization</li>
-  <li>Quantization concepts: FP32 → INT8</li>
-  <li>Transfer learning for limited medical datasets</li>
-  <li>Latency / memory / accuracy trade-off analysis</li>
-  <li>Lightweight model design for edge deployment</li>
-  <li>Model evaluation with clinically meaningful metrics</li>
+  <li>Linear algebra for machine learning</li>
+  <li>Calculus and gradients for optimization</li>
+  <li>Probability and statistics for model evaluation</li>
+  <li>Optimization theory and loss functions</li>
+  <li>Signal processing fundamentals</li>
+  <li>Fourier transform concepts</li>
+  <li>Wavelet transform concepts</li>
+  <li>Filtering, denoising, and feature extraction</li>
+  <li>Time-domain and frequency-domain analysis</li>
+  <li>Sampling, noise, resolution, and sensor limitations</li>
+  <li>Biomedical signal behaviour and physiological interpretation</li>
+  <li>Energy, latency, memory, and hardware constraints in AI deployment</li>
 </ul>
+
 
 ---
 
-<h2 align="center">🫀 Medical AI & Signal Processing</h2>
+<h2 align="center">🧬 Medical AI, Brain Organoids & Biomedical Data</h2>
 
-<h3>Physiological Signals</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/ECG-Electrical%20Heart%20Signals-DC143C?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SCG-Mechanical%20Heart%20Vibrations-8A2BE2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PCG-Heart%20Sound%20Signals-20B2AA?style=for-the-badge">
-  <img src="https://img.shields.io/badge/EEG-Neural%20Signals-4682B4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Time%20Series-Healthcare%20Signals-FF7F50?style=for-the-badge">
-</p>
-
-<h3>Medical AI Areas</h3>
+<h3>Biomedical Areas of Interest</h3>
 
 <ul>
-  <li>Cardiac signal anomaly detection</li>
-  <li>SCG to ECG signal transformation</li>
-  <li>ECG / SCG / PCG preprocessing</li>
-  <li>Denoising and filtering of physiological signals</li>
-  <li>Medical time-series classification and reconstruction</li>
-  <li>Transfer learning for small and limited healthcare datasets</li>
-  <li>Model compression for medical edge systems</li>
-  <li>Clinical AI interpretability and responsible deployment</li>
+  <li>Medical AI and clinical decision-support systems</li>
+  <li>Biomedical signal processing</li>
+  <li>Medical image processing and segmentation</li>
+  <li>Brain organoid image analysis</li>
+  <li>Microscopy image analysis</li>
+  <li>Cell and tissue segmentation</li>
+  <li>Neuro-AI and brain-inspired computation</li>
+  <li>Physiological time-series analysis</li>
+  <li>Healthcare model evaluation and responsible deployment</li>
 </ul>
+
+<h3>Biomedical Signals & Data Types</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/ECG-Heart%20Signals-DC143C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SCG-Mechanical%20Signals-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PCG-Heart%20Sounds-20B2AA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/EEG-Brain%20Signals-4682B4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MRI%20%7C%20fMRI-Neuroimaging-6A5ACD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Microscopy-Organoid%20Images-FF69B4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Time%20Series-Biomedical%20Data-FF7F50?style=for-the-badge">
+</p>
 
 ---
 
-<h2 align="center">⚙️ Hardware, Embedded Systems & Edge AI</h2>
+<h2 align="center">⚙️ Hardware, Edge AI & Embedded Systems</h2>
 
 <h3>Hardware-Aware Engineering Skills</h3>
 
 <ul>
   <li>Edge AI system design</li>
+  <li>Embedded machine learning concepts</li>
   <li>ARM-based deployment concepts</li>
-  <li>Embedded machine learning fundamentals</li>
-  <li>Microcontroller-aware AI thinking</li>
-  <li>Hardware constraints: memory, latency, energy, heat, and compute budget</li>
-  <li>Low-power AI design for real-world devices</li>
+  <li>Hardware-aware AI design</li>
+  <li>Low-power inference</li>
   <li>Local inference instead of cloud-only AI</li>
-  <li>Efficient AI for sustainable and privacy-preserving systems</li>
+  <li>Energy, latency, memory, and heat-aware model deployment</li>
+  <li>Model optimization for constrained devices</li>
+  <li>Interest in CPU, GPU, NPU, TPU, and neuromorphic acceleration</li>
 </ul>
 
 <h3>Hardware & Edge Platforms</h3>
@@ -138,10 +163,12 @@
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img alt="ARM" src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white">
   <img alt="Coral TPU" src="https://img.shields.io/badge/Coral%20TPU-4285F4?style=for-the-badge&logo=google&logoColor=white">
-  <img alt="Microcontrollers" src="https://img.shields.io/badge/Microcontrollers-Embedded%20AI-555555?style=for-the-badge">
+  <img alt="NPU" src="https://img.shields.io/badge/NPU-Neural%20Acceleration-555555?style=for-the-badge">
+  <img alt="TPU" src="https://img.shields.io/badge/TPU-Tensor%20Acceleration-4285F4?style=for-the-badge">
+  <img alt="Microcontrollers" src="https://img.shields.io/badge/Microcontrollers-TinyML-555555?style=for-the-badge">
 </p>
 
-<h3>Edge / Deployment Tools</h3>
+<h3>Deployment & Optimization Tools</h3>
 
 <p>
   <img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white">
@@ -154,27 +181,6 @@
 
 ---
 
-<h2 align="center">🌉 The Bridge: AI Models → Real Hardware</h2>
-
-<p align="center">
-  My engineering direction is to connect intelligent models with real-world deployment constraints.
-</p>
-
-<p align="center">
-  I am interested in building AI systems that can move from:
-</p>
-
-<p align="center">
-  <b>medical data</b> → <b>signal processing</b> → <b>machine learning model</b> → 
-  <b>optimization</b> → <b>edge deployment</b> → <b>responsible real-world use</b>
-</p>
-
-<p align="center">
-  This bridge is especially important in healthcare, where models must be accurate, efficient, interpretable, secure, and maintainable.
-</p>
-
----
-
 <h2 align="center">💻 Programming Languages</h2>
 
 <p>
@@ -183,10 +189,10 @@
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img alt="Julia" src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white">
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img alt="Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?style=for-the-badge&logo=asm-hex&logoColor=white">
@@ -209,17 +215,6 @@
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black">
 </p>
 
-<h3>Medical / Biosignal / Neuro AI</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/WFDB-PhysioNet%20Data-4682B4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/NeuroKit2-Biosignal%20Processing-20B2AA?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MNE-Python%20EEG-7A5CFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Nilearn-Neuroimaging-FF69B4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Nibabel-Medical%20Imaging-6A5ACD?style=for-the-badge">
-  <img src="https://img.shields.io/badge/h5py-HDF5%20Data-555555?style=for-the-badge">
-</p>
-
 <h3>Computer Vision & Interaction</h3>
 
 <p>
@@ -229,90 +224,78 @@
   <img src="https://img.shields.io/badge/Pillow-Image%20Processing-FFB703?style=for-the-badge">
 </p>
 
----
-
-<h2 align="center">🚀 Current Project Direction</h2>
-
-<h3>Smart Kitchen Edge AI System</h3>
+<h3>Medical, Biosignal & Neuro AI</h3>
 
 <p>
-  A practical AI system for a smart kitchen environment using:
+  <img src="https://img.shields.io/badge/WFDB-PhysioNet%20Data-4682B4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NeuroKit2-Biosignal%20Processing-20B2AA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BioSPPy-Biomedical%20Signals-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PyWavelets-Signal%20Analysis-FFB703?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MNE-Python%20EEG-7A5CFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nilearn-Neuroimaging-FF69B4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nibabel-Medical%20Imaging-6A5ACD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/h5py-HDF5%20Data-555555?style=for-the-badge">
 </p>
 
-<ul>
-  <li>Food and ingredient detection</li>
-  <li>Gesture-based recipe control</li>
-  <li>Nutrition and meal logging</li>
-  <li>Local inference for privacy and lower energy consumption</li>
-  <li>Future deployment on edge hardware such as Raspberry Pi, Jetson, or Coral TPU</li>
-</ul>
+<h3>Brain Organoid / Microscopy Image Analysis</h3>
 
-<h3>Medical Signal AI Direction</h3>
+<p>
+  <img src="https://img.shields.io/badge/scikit--image-Image%20Processing-FF7F50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/napari-Microscopy%20Viewer-6A5ACD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cellpose-Cell%20Segmentation-20B2AA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/tifffile-Microscopy%20Data-555555?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Zarr-Large%20Array%20Data-4682B4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Dask-Large%20Scale%20Processing-FFB703?style=for-the-badge">
+</p>
 
-<ul>
-  <li>Cardiovascular signal transformation and anomaly detection</li>
-  <li>Transfer learning for limited medical datasets</li>
-  <li>Model pruning and optimization for efficient inference</li>
-  <li>Bridge between clinical signal processing and hardware-aware AI deployment</li>
-</ul>
+<h3>Neuromorphic / Spiking AI</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Brian2-Spiking%20Simulation-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/snnTorch-Spiking%20Neural%20Networks-EE4C2C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Norse-SNN%20with%20PyTorch-6A5ACD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nengo-Neural%20Modelling-20B2AA?style=for-the-badge">
+</p>
+
+---
+
+<h2 align="center">🛠️ Development Tools</h2>
+
+<p>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
 
 ---
 
 <h2 align="center">🧭 What I Am Building Toward</h2>
 
 <p align="center">
-  I want to become an engineer who can design, implement, optimize, and deploy AI systems that work beyond notebooks.
+  I want to become an engineer who can design, implement, optimize, and deploy AI systems beyond notebooks.
 </p>
 
 <p align="center">
-  My focus is on building AI that is:
+  My focus is on AI that is:
 </p>
 
 <p align="center">
   <b>accurate</b> • <b>efficient</b> • <b>interpretable</b> • <b>hardware-aware</b> • 
-  <b>clinically meaningful</b> • <b>responsible</b>
+  <b>biologically informed</b> • <b>responsible</b>
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AzadehKSH&show_icons=true&theme=radical&hide_border=true" 
-    alt="Azadeh's GitHub Stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzadehKSH&layout=compact&theme=radical&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/azadeh-kooshesh-0015179b/">
-    <img height="35" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://dev.to/azadehksh">
-    <img height="35" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true" alt="Dev.to">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ko-fi.com/azadehksh">
-    <img height="35" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true" alt="Ko-fi">
-  </a>
-</p>
-
----
-
-<p align="center">
   <i>
-    “I want to understand models deeply, build systems carefully, and deploy AI responsibly in the real world.”
+    “I want to understand intelligence from data to models, from biology to hardware, and from research ideas to real-world systems.”
   </i>
 </p>
+
+---
+
+
+
